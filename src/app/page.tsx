@@ -5,6 +5,7 @@ import About from "@/components/About";
 import Programme from "@/components/Programme";
 import Schools from "@/components/Schools";
 import Gallery from "@/components/Gallery";
+import PastEditions from "@/components/PastEditions";
 import Rdv from "@/components/Rdv";
 import Register from "@/components/Register";
 import Newsletter from "@/components/Newsletter";
@@ -25,6 +26,7 @@ export default function Home() {
       <Programme />
       <Schools />
       <Gallery />
+      <PastEditions />
       <Rdv />
       <Register />
       <Newsletter />

@@ -97,7 +97,7 @@ export default function Footer() {
             © {new Date().getFullYear()} Forum des Grandes Écoles.
           </p>
           <p className="text-meta text-[0.85rem] opacity-40 !tracking-[0.2em] uppercase">
-            Designed by Talesman / Sagana Agency
+            Designed by Talesman
           </p>
         </motion.div>
       </div>
